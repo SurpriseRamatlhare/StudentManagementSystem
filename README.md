@@ -23,9 +23,12 @@ Getting Started
 
 # To get started with the Student Management System, follow these steps:
 
-Clone the Repository: git clone https://github.com/your-username/student-management-system.git
+Clone the Repository
+
 Set Up the Database: Import the provided SQL script into your MySQL database to create the necessary tables and schema.
+
 Configure Database Connection: Update the database connection details in the StudentDA class to match your MySQL server configuration.
+
 Compile and Run: Compile the Java files and run the StudentApplication class to start the application.
 
 # Contributions are welcome! If you'd like to contribute to the Student Management System, please follow these steps:
